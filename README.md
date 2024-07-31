@@ -6,8 +6,6 @@
 <p align="center">
   A basic calculator built with PyQt5.
   <br />
-  <a href="https://github.com/your-username/simple-calculator"><strong>Explore the docs »</strong></a>
-  <br />
   <br />
   <a href="https://github.com/Tapiwanashe-Njela/calculator_app">View Demo</a>
   ·
@@ -139,9 +137,7 @@ If you have a suggestion that would make this project better, please fork the re
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/simple-calculator](https://github.com/your-username/simple-calculator)
+Sean - [Linkedin](https://www.linkedin.com/in/sean-njela) - seannjela@outlook.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
