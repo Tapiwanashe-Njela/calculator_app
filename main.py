@@ -80,3 +80,5 @@ delete_button.clicked.connect(button_click) #We link the delete button click eve
 #Show and run the app
 main_window.show() #Display the form
 app.exec_() #Run the app
+
+#current --> https://youtu.be/f_9NBdSAo-g?t=5935
