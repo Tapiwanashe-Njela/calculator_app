@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT LOGO -->
-<h3 align="center">Simple Calculator</h3>
+<h2 align="center">Simple Calculator</h2>
 
 <p align="center">
   A basic calculator built with PyQt5.
@@ -46,7 +46,7 @@
 
 ## About The Project
 
-[![Product Screenshot](https://via.placeholder.com/400)](https://github.com/your-username/simple-calculator)
+![image](https://github.com/user-attachments/assets/8f09e5bf-1804-401c-91d0-6cf2418a9c26)
 
 This project is a simple calculator application built using PyQt5. It supports basic arithmetic operations and features a user-friendly interface. This project serves as a great introduction to GUI programming with PyQt5.
 
