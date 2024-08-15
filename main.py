@@ -39,6 +39,8 @@ class CalcApp(QWidget):
 
         self.clear_button = QPushButton("Clear")
         self.delete_button = QPushButton("Delete")
+        self.clear_button.setStyleSheet("QPushButton { font: 25pt Comic Sans MS; padding: 10px; }")
+        self.delete_button.setStyleSheet("QPushButton { font: 25pt Comic Sans MS; padding: 10px; }")
 
 
         #ALL DESIGN HERE; Getting all the created objects onto our screen
@@ -93,7 +95,7 @@ class CalcApp(QWidget):
 if __name__ == "__main__":
     app = QApplication([]) #Allows us to create and execute our app; takes in an empty list ALWAYS
     main_window = CalcApp() #Object to create a new form (window) that we will be editing
-    main_window.setStyleSheet("QWidget { background-color: #123 }") #add css styling to the main window
+    main_window.setStyleSheet("QWidget { background-color: #f18f9f78 }") #add css styling to the main window
     main_window.show() #Display the form
     app.exec_() #Run the app
 
